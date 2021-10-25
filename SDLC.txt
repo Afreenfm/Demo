@@ -1,0 +1,5 @@
+SDLC: Software Development Lifecycle
+	Waterfall Model
+	V Model
+	Spiral Model
+	Agile
